@@ -7,7 +7,7 @@ export default makeStyles({
         margin : '0'
     },
     card : {
-        diaplay : 'flex',
+        display : 'flex',
         flexDirection : 'column',
         justifyContent : 'space-between',
         alignItems : 'center',
@@ -16,6 +16,7 @@ export default makeStyles({
         padding : '10%',
         borderRadius : 10,
         color : 'white',
+    
     },
     infoCard : {
         display : 'flex',
