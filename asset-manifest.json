@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-Based-News-Webside/static/css/main.ff73cdbd.css",
+    "main.js": "/AI-Based-News-Webside/static/js/main.eb4a7b3c.js",
+    "index.html": "/AI-Based-News-Webside/index.html",
+    "main.ff73cdbd.css.map": "/AI-Based-News-Webside/static/css/main.ff73cdbd.css.map",
+    "main.eb4a7b3c.js.map": "/AI-Based-News-Webside/static/js/main.eb4a7b3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff73cdbd.css",
+    "static/js/main.eb4a7b3c.js"
+  ]
+}
