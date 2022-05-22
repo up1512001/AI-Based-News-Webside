@@ -7,6 +7,4 @@
 
 **Below are some examples images**
 
-![](src/images/Screenshot%20(14).png)
 ![](src/images/Screenshot%20(15).png)
-![](src/images/Screenshot%20(16).png)
