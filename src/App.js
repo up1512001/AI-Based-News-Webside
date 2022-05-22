@@ -39,7 +39,7 @@ useEffect(()=>{
                     alanBtn().playText('try it again');
                 }else if (article){
                     window.open(article.url, '_blank');
-                    alanBtn().playText('opening ....');
+                    alert(`opening article No ${parsedNumber}`);
                 }
 
                  

@@ -1,4 +1,5 @@
 {
+  "homepage": "http://up1512001.github.io/AI-Based-News-Webside",
   "name": "allen_ai_news_webside",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +17,8 @@
     "words-to-numbers": "^1.5.1"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
