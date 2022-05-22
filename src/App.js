@@ -41,8 +41,6 @@ useEffect(()=>{
                     window.open(article.url, '_blank');
                     alert(`opening article No ${parsedNumber}`);
                 }
-
-                 
             }
         },
     })
